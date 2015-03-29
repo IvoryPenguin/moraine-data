@@ -1,0 +1,15 @@
+{
+  "Data" : {
+    "host": "localhost"
+  },
+  "Boot": {
+    "cooldown": 30,
+    "retries": 5,
+    "processes": 1
+  },
+  "OAuth": {
+    "accessTokenLifetime": 7200,
+    "refreshTokenLifetime": 1209600,
+    "tokenSecret": "shh"
+  }
+}
